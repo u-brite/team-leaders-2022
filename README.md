@@ -40,10 +40,10 @@ If you need help, please view the [discussions tab](https://github.com/u-brite/t
 
 | Team Leader | Team Name | Completed Checklist (yes or no) |
 |-------------|-----------|---------------------------------|
-|Tarun Mamidi |   canAI   |            yes                  |
+|Tarun Mamidi |   canAI   |            Yes                  |
 |Rahul Sharma |MedvAIsor  | Yes                             |
 |Arun Boddapati| Team Vecna-scDehasheR|Yes                  |
-|             |           |                                 |
+|Vasileios Alevios| Papaki    |         Yes                 |
 |             |           |                                 |
 |             |           |                                 |
 |             |           |                                 |
