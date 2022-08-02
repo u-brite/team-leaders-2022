@@ -37,13 +37,13 @@ We'd like to welcome you to Hackin' Omics 2022! We hope you are as excited as we
   - [ ] Submit this [form](https://airtable.com/shrnpxEogyAzlRWGX) to submit any datasets or tools you'll be using throughtout the hackathon.
 - [ ] Determine if you’ll need cloud ([Jetstream2](https://jetstream-cloud.org/about/index.html)) or HPC computing (Cheaha) for the hackathon. Contact Blake Joyce in slack to discuss your team’s needs or discuss in the #team-leaders  channel on slack. 
   - [ ] If you want access to cloud (Jetstream2):
-        - Jetstream 2 cloud computing (free cloud option):
-        - Please create an [XSEDE account](https://portal.xsede.org/my-xsede?p_p_id=58&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_58_struts_action=%2Flogin%2Fcreate_account). 
-        - Have your team members create an XSEDE account.
-        - Gather your and all your team members’ XSEDE accounts and email to [Blake Joyce](bjoyce@uab.edu) in a single list.
+    - Jetstream 2 cloud computing (free cloud option):
+    - Please create an [XSEDE account](https://portal.xsede.org/my-xsede?p_p_id=58&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_58_struts_action=%2Flogin%2Fcreate_account). 
+    - Have your team members create an XSEDE account.
+    - Gather your and all your team members’ XSEDE accounts and email to [Blake Joyce](bjoyce@uab.edu) in a single list.
   - [ ] If you want access to Cheaha high performance computing:
-        - If you have a BlazerID or UAB XIAS account: go to https://rc.uab.edu/ and sign up.
-        - If you are not at UAB or do not have a XIAS account already: slack message `@Blake Joyce (UAB Research Computing)` with your `.edu` email or your company email. We cannot accept personal emails for Cheaha access.
+    - If you have a BlazerID or UAB XIAS account: go to https://rc.uab.edu/ and sign up.
+    - If you are not at UAB or do not have a XIAS account already: slack message `@Blake Joyce (UAB Research Computing)` with your `.edu` email or your company email. We cannot accept personal emails for Cheaha access.
 - [ ] Complete the above tasks and add your name and project name to the Team Leader Readiness table. Submit a pull request and assign `@u-brite/hackin-omics-co-chairs`.
 
 ## Help
