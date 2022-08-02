@@ -44,6 +44,7 @@ If you need help, please view the [discussions tab](https://github.com/u-brite/t
 |Rahul Sharma |MedvAIsor  | Yes                             |
 |Arun Boddapati| Team Vecna-scDehasheR|Yes                  |
 |Anton Orlichenko | ImageNomeR |    Yes                     |
+|Akhil Pampana| HeriVar   | Yes                             |
 |             |           |                                 |
 |             |           |                                 |
 |             |           |                                 |
