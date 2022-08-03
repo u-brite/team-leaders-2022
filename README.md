@@ -30,9 +30,9 @@ We'd like to welcome you to Hackin' Omics 2022! We hope you are as excited as we
     - [ ] Your repository should be PUBLIC.
     - [ ] Refine your project proposal based on the feedback given (if there was feedback).
     - [ ] Add your team members to the [U-BRITE organization](https://github.com/orgs/u-brite/teams/hackin-omics/members) if they have a GitHub account or have them create an account.
-- [ ] Attend workshops to become ready for the hackathon.
-    - [ ] Computing Resources Workshop: An Introduction to Jetstream2, HPC, and Git/GitHub | Register at https://tinyurl.com/mubxwc8f | July 27 at 2PM
-    - [ ] U-BRITE Bootcamp: Learn how to use PAGER & SEAS for multi-omics downstream analysis by Dr. Jake Chen | Register at https://tinyurl.com/yxx23fph | July 29 at 10AM
+- [ ] Attend workshops or watch recordings to become ready for the hackathon.
+    - [ ] [Computing Resources Workshop: An Introduction to Jetstream2, HPC, and Git/GitHub](https://uab.box.com/s/ddsxtndjci74uob55xil6qwcrp6ksjjl) by [Dr. Blake Joyce](https://github.com/bjoyce3)
+    - [ ] [U-BRITE Bootcamp: Learn how to use PAGER & SEAS for multi-omics downstream analysis]() [by Dr. Jake Chen](https://github.com/jakechen1)
 - [ ] Ensure any datasets that need to be dowloaded have been mentioned by communicating with Dr. Blake Joyce via slack (His slack is `@Blake Joyce (UAB Research Computing)` or tagging the technical committee on GitHub using `@u-brite/technical-committee`.
   - [ ] Submit this [form](https://airtable.com/shrnpxEogyAzlRWGX) to submit any datasets or tools you'll be using throughtout the hackathon.
 - [ ] Determine if you’ll need cloud ([Jetstream2](https://jetstream-cloud.org/about/index.html)) or HPC computing (Cheaha) for the hackathon. Contact Blake Joyce in slack to discuss your team’s needs or discuss in the #team-leaders  channel on slack. 
