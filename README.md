@@ -32,12 +32,11 @@ We'd like to welcome you to Hackin' Omics 2022! We hope you are as excited as we
     - [ ] Add your team members to the [U-BRITE organization](https://github.com/orgs/u-brite/teams/hackin-omics/members) if they have a GitHub account or have them create an account.
 - [ ] Attend workshops or watch recordings to become ready for the hackathon.
     - [ ] [Computing Resources Workshop: An Introduction to Jetstream2, HPC, and Git/GitHub](https://uab.box.com/s/ddsxtndjci74uob55xil6qwcrp6ksjjl) by [Dr. Blake Joyce](https://github.com/bjoyce3)
-    - [ ] [U-BRITE Bootcamp: Learn how to use PAGER & SEAS for multi-omics downstream analysis]() [by Dr. Jake Chen](https://github.com/jakechen1)
-- [ ] Ensure any datasets that need to be dowloaded have been mentioned by communicating with Dr. Blake Joyce via slack (His slack is `@Blake Joyce (UAB Research Computing)` or tagging the technical committee on GitHub using `@u-brite/technical-committee`.
+    - [ ] [U-BRITE Bootcamp: Learn how to use PAGER & SEAS for multi-omics downstream analysis](https://github.com/u-brite/u-brite-bootcamp) [by Dr. Jake Chen](https://github.com/jakechen1)
+- [ ] Ensure any datasets that need to be dowloaded have been mentioned by communicating with Zhandos Sembay via slack (His slack is `@Zhandos Sembay` or tagging the technical committee on GitHub using `@u-brite/technical-committee`.
   - [ ] Submit this [form](https://airtable.com/shrnpxEogyAzlRWGX) to submit any datasets or tools you'll be using throughtout the hackathon.
 - [ ] Determine if you’ll need cloud ([Jetstream2](https://jetstream-cloud.org/about/index.html)) or HPC computing (Cheaha) for the hackathon. Contact Blake Joyce in slack to discuss your team’s needs or discuss in the #team-leaders  channel on slack. 
-  - [ ] If you want access to cloud (Jetstream2):
-    - Jetstream 2 cloud computing (free cloud option):
+  - [ ] If you want access to cloud (Jetstream2 - free cloud option):
     - Please create an [XSEDE account](https://portal.xsede.org/my-xsede?p_p_id=58&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_58_struts_action=%2Flogin%2Fcreate_account). 
     - Have your team members create an XSEDE account.
     - Gather your and all your team members’ XSEDE accounts and email to [Blake Joyce](bjoyce@uab.edu) in a single list.
