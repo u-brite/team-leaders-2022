@@ -53,12 +53,13 @@ If you need help, please view the [discussions tab](https://github.com/u-brite/t
 
 | Team Leader | Team Name | Completed Checklist (yes or no) |
 |-------------|-----------|---------------------------------|
-|Tarun Mamidi |   canAI   |            yes                  |
+|Tarun Mamidi |   canAI   |            Yes                  |
 |Rahul Sharma |MedvAIsor  | Yes                             |
 |Arun Boddapati| Team Vecna-scDehasheR|Yes                  |
+|Pradeep Varathan|Team AD Guy|         Yes                  |
 |Anton Orlichenko | ImageNomeR |    Yes                     |
 |Akhil Pampana| HeriVar   | Yes                             |
-|  Emily Page |ReproCanAtlas|      yes                           |
+|  Emily Page |ReproCanAtlas|      Yes                           |
 |             |           |                                 |
 |             |           |                                 |
 |             |           |                                 |
